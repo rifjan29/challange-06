@@ -149,10 +149,6 @@ a:focus {
     border-bottom: 1px solid #dbdedf;
 }
 
-#sidebar ul.components {
-    /* padding: 20px 0; */
-    /* border-bottom: 1px solid #bfc1c2; */
-}
 
 #sidebar ul p {
     color: gray ;
@@ -237,9 +233,6 @@ a.article:hover {
     padding-right: 0.5rem;
     color: #6c757d;
     content: ">" 
-}
-.content .text-content{
-    /* color: rebeccapurple; */
 }
 .text-content-second h5{
     font-weight: bold;

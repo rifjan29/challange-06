@@ -2,7 +2,7 @@ import background from '../../assets/img/background/image-2.png';
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { LoginGoogle, LoginEmail } from '../../config/redux/actions/authActions';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
 
