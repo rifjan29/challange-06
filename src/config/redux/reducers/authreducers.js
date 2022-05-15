@@ -1,6 +1,5 @@
 const intialState = {
     dataLogin: null,
-    dataRegister: null,
 }
 
 const authReducer = (state = intialState, action) => {
